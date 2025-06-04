@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haquedot&label=Profile%20views&color=0e75b6&style=flat" alt="haquedot" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Omii-1&label=Profile%20views&color=0e75b6&style=flat" alt="haquedot" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
 
