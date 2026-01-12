@@ -38,15 +38,15 @@
 <h3 align="center">📊 Stats & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omii-1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omii-1&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omii-1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omii-1&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omii-1&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Omii-1&theme=radical" />
 </p>
 
 <h3 align="center">Profile Summary</h3>
