@@ -35,26 +35,29 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
 </p>
 
-<h3 align="left">Stats & Activity</h3>
+<h3 align="center">📊 Stats & Activity</h3>
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omii-1&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omii-1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omii-1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omii-1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
 
-<div align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Omii-1&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omii-1&theme=radical" alt="GitHub Streak" />
+</p>
 
-<h3 align="left">Profile Summary</h3>
+<h3 align="center">Profile Summary</h3>
 
-<div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omii-1&theme=radical" alt="Profile Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omii-1&theme=radical" alt="Most Commit Language" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omii-1&theme=radical" alt="Profile Stats" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omii-1&theme=radical" alt="Most Commit Language" height="180em" />
+</p>
 
-<h2 align="left">⚡ Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Omii-1&theme=github-compact" alt="Activity Graph" />
+<h2 align="center">⚡ Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omii-1&theme=github-compact" alt="Activity Graph" />
+</p>
